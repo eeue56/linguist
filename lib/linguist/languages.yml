@@ -722,6 +722,11 @@ Prolog:
   - .pro
   - .prolog
 
+Processing:
+  type: programming
+  extensions:
+  - .pde
+
 Pure Data:
   type: programming
   lexer: Text only
